@@ -1,5 +1,10 @@
 # hello-world
+public class HelloWorld{
 
-This is my first repsitory.
+  public static void main(String args[]){
+  
+  System.out.println("Hello, World!");
+  
+  }
 
-Trying to learn gitHub so that I can add code and personal/professional projects to it.
+}
